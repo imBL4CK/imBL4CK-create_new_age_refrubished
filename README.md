@@ -13,4 +13,4 @@ Several textures were inspired by mod create, so they are consistent with the ar
 
 🔗 Original mod link
 
-![original_mod_link](https://cdn.modrinth.com/data/FTeXqI9v/fe75695f6f2e085ac9fb56204de7f88b6d716e8d.png)
+![original_mod_link](https://imgur.com/a/UgT1J60)
